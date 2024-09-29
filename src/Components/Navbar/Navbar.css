@@ -23,3 +23,16 @@ body {
   gap: 60px;
   font-size: 20px;
 }
+
+.nav-connect {
+  padding: 20px 40px;
+  border-radius: 50px;
+  background: linear-gradient(267deg, #9e1137 0.36%, #38387d 102%);
+  font-size: 22px;
+  cursor: pointer;
+  transition: 0.05s;
+}
+
+.nav-connect:hover {
+  transform: scale(1.05);
+}
